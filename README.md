@@ -1,9 +1,10 @@
 # Jcoin
-Public cod for Jcoin 
-//Made by Alexey A. Bulatnikov and Sergey M. Vasiliev for Jcorp LTD Bulgaria 
-//This token is made for support of Project J ICO. 
-//Any token holder will be eligible for a dividend depending on the number of shares he/she holds.  
-//Jcorp LTD will distribute 50% of all profit to our token holders on a quarter basis.  
+Public code for Jcoin 
+
+Made by Alexey A. Bulatnikov and Sergey M. Vasiliev for Jcorp LTD Bulgaria 
+This token is made for support of Project J ICO. 
+Any token holder will be eligible for a dividend depending on the number of shares he/she holds.  
+Jcorp LTD will distribute 50% of all profit to our token holders on a quarter basis.  
 
 pragma solidity ^0.4.16;
 
